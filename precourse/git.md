@@ -12,3 +12,21 @@
 ## View commit history
 
 - `git log`
+
+## Ignore files
+
+- `echo 'ignoredfile.txt' > .gitignore` ignore a certain file.
+
+## Branching
+
+- `git branch branchname` create a branch without switching to it.
+- `git checkout branchname` change to branchname
+- `git merge branchname` merge branchname
+
+### How to replace one branch with another
+
+```
+git checkout hotfixes
+git reset --hard master
+git push --force origin hotfixes
+```
