@@ -15,6 +15,7 @@ Here lies some reference notes on how to use the shell.
 - `cat filename.ext` display file contents
 - `more <filename>` display file contents + scroll
 - `less <filename>` display file contents + scroll
+- `mdls filename` discover far more about a particuar file
 
 ## Command redirction
 
@@ -37,6 +38,11 @@ Here lies some reference notes on how to use the shell.
 - `find . -name "*.txt"` find all .txt files in this dir
 - `find . -name "*.txt" -mtime 0` find all .txt files in this dir modified today
 - `find . -name "*.txt" -mtime 5` find all .txt files in this dir modified in the last 5 days
+- `find /path -name '*.mpg' -o -name '*.avi'` find both .mpg and .avi files.
+- `find . -iname "*.txt"` -iname is case insensitive file search
+- `find . -name "*.txt" -a -size + 700M` files bigger than 700M.
+- `find /home/ -name '*.avi' -a -size +700M -mtime -15 -exec mv '{}' /my/new/movies/ \;`
+  - Find .avi files greater than 700M, that are newer than 15 days and move them to a new location (that already exists on your system).
 
 ## Grep
 
@@ -61,3 +67,10 @@ Here lies some reference notes on how to use the shell.
 - `kill <pid>` to shut down a process.
 - `top` see all processes.
   - Can then use `k` to kill a process. Not sure how.
+- `sudo` execture command with superuser privileges.
+- `sudo !!` to repeat the last command with superuser privilidges.
+
+## Bonus
+
+- `history | awk '{print $2}' | awk 'BEGIN {FS="|"}{print $1}' | sort | uniq -c | sort -n | tail | sort -nr`
+  - Find your most popular commands.
