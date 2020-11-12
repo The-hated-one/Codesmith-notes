@@ -1,6 +1,7 @@
 # Shell - ZSH - Bash
 
 Here lies some reference notes on how to use the shell.
+Cheat sheet: http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
 
 ## ls commands
 
@@ -64,11 +65,26 @@ Here lies some reference notes on how to use the shell.
 
 - `ps` not sure?
 - `ps aux` see a list of system processes.
-- `kill <pid>` to shut down a process.
+- `kill <pid>` kill a process.
+- `kill -9 <pid>` force kill a process.
 - `top` see all processes.
   - Can then use `k` to kill a process. Not sure how.
 - `sudo` execture command with superuser privileges.
 - `sudo !!` to repeat the last command with superuser privilidges.
+- `shutdown` shutdown machine.
+- `reboot` restart machine.
+- `df` show disk usage
+- `du` show directory space usages
+
+## Other useful commands
+
+- `date` show date
+- `whoami` show who you are logged in as.
+- `pwd` show path
+- `man command` show mannual for command
+- `cp file.ext filecopy.ext` copy a file
+- `mv ./file.txt ./dir/file.txt` move a file.
+- `rm -r` delet a directory.
 
 ## Bonus
 
