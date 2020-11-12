@@ -24,6 +24,7 @@ Cheat sheet: http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
   - E.g. `ls -l | more` scroll through detailed files
   - `ls -l > filename.list` save file list in new file
   - `cat filename.list | grep keyword > filefound.list` display the contents of a file, pipe that into grep and redirect the output into a new file.
+  - `touch filename.xt >> echo 'asdfas;` create a file.
 
 ## History
 
