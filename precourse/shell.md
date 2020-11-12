@@ -48,6 +48,11 @@ Cheat sheet: http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
 ## Grep
 
 - `grep -ir "text string" *` find all text/files in this dir with "text string" in them.
+- `grep --context=10 -ir "text string" *` find all text in this dir with "text string" and show ten lines above and below each occurance.
+
+## SED
+
+- `sed -n '20,40p;41q' file_name` look at lines 20-40 in a certain file.
 
 ## Bash shortcuts
 
