@@ -1,5 +1,9 @@
 # Git notes
 
+## Add and commit in one
+
+- `git commit -a "messages"` - this only works for tracked files.
+
 ## Undo a commit
 
 - `git reset --soft HEAD~1` soft reset, changes in undone revisions are preserved.
