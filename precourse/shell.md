@@ -17,6 +17,20 @@ Cheat sheet: http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
 - `more <filename>` display file contents + scroll
 - `less <filename>` display file contents + scroll
 - `mdls filename` discover far more about a particuar file
+- `head filename.ext` view the first 10 lines of a file.
+- `tail filename.ext` view last 10 lines of a file.
+- `tail -f file.ext` watch/output the last 10 lines of a file as it grows.
+
+## Editing files
+
+- `> filename.ext` write directly into a new or prexisting file what you want.
+- `echo 'something' > new_or_prexisting_file.txt` - create or update a file with this content.
+- `echo 'something' >> new_or_prexisting_file.txt` - add new line to this file.
+
+### Summary
+
+Use `>` to redirect something into a file.
+Use `>>` to append something to the end of a file.
 
 ## Command redirction
 
@@ -24,7 +38,7 @@ Cheat sheet: http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
   - E.g. `ls -l | more` scroll through detailed files
   - `ls -l > filename.list` save file list in new file
   - `cat filename.list | grep keyword > filefound.list` display the contents of a file, pipe that into grep and redirect the output into a new file.
-  - `touch filename.xt >> echo 'asdfas;` create a file.
+  <!-- - `touch filename.xt >> echo 'asdfas';` create a file. -->
 
 ## History
 
@@ -48,8 +62,14 @@ Cheat sheet: http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
 
 ## Grep
 
-- `grep -ir "text string" *` find all text/files in this dir with "text string" in them.
+- `grep -ir "text string" *` recursively find all text/files in this dir with the case insensitive "text string" in them.
 - `grep --context=10 -ir "text string" *` find all text in this dir with "text string" and show ten lines above and below each occurance.
+
+### Flags
+
+- `-i` means case insensitive.
+- `-r` means search all child files recursively
+- `man grep` to see details on all flags and options.
 
 ## SED
 
