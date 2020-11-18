@@ -111,6 +111,7 @@ Use `>>` to append something to the end of a file.
 - `cp file.ext filecopy.ext` copy a file
 - `mv ./file.txt ./dir/file.txt` move a file.
 - `rm -r` delet a directory.
+- `wc -l` how many lines - e.g. `ls -la | wc -l` see how many files are in the directory.
 
 ## Bonus
 
