@@ -1,5 +1,9 @@
 # Git notes
 
+## View current branch
+
+- `git branch --show-current` - returns current branch
+
 ## Add and commit in one
 
 - `git commit -a "messages"` - this only works for tracked files.
