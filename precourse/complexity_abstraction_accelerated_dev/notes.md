@@ -19,7 +19,7 @@ If you are committed to writing tests, then you must commit to writing testable 
 ## The axis of evil
 
 ### Hidden state
-Function is dependent on the state outside fo the function. You could call the function an infinite number of times and you still don't know what it is going to do.
+Function is dependent on the state outside of the function. You could call the function an infinite number of times and you still don't know what it is going to do.
 
 ### SRP
 Function should only do one thing
