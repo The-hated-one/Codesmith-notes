@@ -9,7 +9,11 @@ If you really need to you can unmute yourself to ask a question.
 
 Have you heard of ping-pong pair programming?
 
-Can I ask my navigator for help
+Can I ask my navigator for help.
+
+Does the order of an object matter?
+
+Should the driver or navigator do research?
 
 ## Notes
 
@@ -35,6 +39,8 @@ Either you are teaching or you are learning.
 Rotate when you are done.
 
 ## Driver ettiquette
+
+- If you are driving and you know the answer, but your navigator is stuck let them struggle!
 
 ## Benefits
 
@@ -88,6 +94,7 @@ Rotate when you are done.
 
 ## Personal tips taken from Makers
 
+- Start with emotional check-in.
 - Full disclosure.
 - What do you want to get out of it? What is your motivation?
 - Vision hacking:
@@ -97,4 +104,5 @@ Rotate when you are done.
   - What did I do well?
   - What could I improve on?
 - Appreciations at the end.
-
+- Emotional communication.
+- Ping pong is an option.
