@@ -5,16 +5,6 @@ Turns the chat off.
 Use the raise hand feature if you have a question.
 If you really need to you can unmute yourself to ask a question.
 
-### Questions
-
-Have you heard of ping-pong pair programming?
-
-Can I ask my navigator for help.
-
-Does the order of an object matter?
-
-Should the driver or navigator do research?
-
 ## Notes
 
 - Driver -> person with hands on the keyboard:
