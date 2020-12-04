@@ -50,7 +50,6 @@ git checkout -> creates or switches to a branch
 git merge -> merges one branch with another
 ```
 
-
 ## To learn
 
 - How to use `git commit -a`
