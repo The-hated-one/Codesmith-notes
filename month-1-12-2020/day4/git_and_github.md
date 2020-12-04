@@ -50,9 +50,11 @@ git checkout -> creates or switches to a branch
 git merge -> merges one branch with another
 ```
 
+
 ## To learn
 
 - How to use `git commit -a`
+- How to `git commit` with `-m`, and user the terminal to write the commit message.
 
 - Commit:
   - Abort rebase
