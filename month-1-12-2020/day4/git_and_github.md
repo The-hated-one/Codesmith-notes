@@ -50,9 +50,30 @@ git checkout -> creates or switches to a branch
 git merge -> merges one branch with another
 ```
 
+## Nodes on the Master Branch
+
+Master commit 1 -> commit 2 -> commit 3 -> commit 4
+
+## Creating Feature Branches
+
+Master commit 1 -> commit 2 -> commit 3 -> commit 4
+                -> commit 1 -> commit 2 -> commit 3
+
+## Multiple Remotes
+
+git remote add upstream <url>
+git pull upstream master -> pull changes from the repository you forked from.
+
+## Push to origin
+
+git push origin master
+
+- Origin is where you originally cloned the code from.
+
 ## To learn
 
 - How to use `git commit -a`
+  - Answer: 
 - How to `git commit` with `-m`, and user the terminal to write the commit message.
 - How to view the git diff for a file.
 
@@ -101,3 +122,13 @@ git merge -> merges one branch with another
   - Create Tag
   - Delete Tag
 
+## Others
+
+- Cherry pick, rebase, revert, stash, clean.
+- https://www.udemy.com/course/git-advanced-commands/#instructor-1
+  - Was on offer 83% when I saw it £9.99
+  - There are free youtube resources - https://www.youtube.com/watch?v=0SJCYPsef54
+
+### Advanced
+
+Use: https://levelup.gitconnected.com/automate-repetitive-tasks-with-custom-git-commands-76a4b71d262f
