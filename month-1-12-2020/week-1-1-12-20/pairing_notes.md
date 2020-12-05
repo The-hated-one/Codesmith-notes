@@ -19,3 +19,21 @@ Does the order of an object matter?
 
 Should the driver or navigator do research? -> navigator does research
 
+## Feedback
+
+Really appreciate patience. Sharing knowledge. Skill is high. Refactor after finishing the problem.
+Great technical communication skills.
+
+Feedback -> refactor!
+Work on your technical communication.
+Learning -> we move on faster.
+
+
+```JavaScript
+function flattenDeep(array, result = [], i = 0) {
+  if (!array[i]) return result;
+  if (Array.isArray(array[i])) flattenDeep(array[i], result, 0);
+  else result.push(array[i]);
+  return flattenDeep(array, result, i + 1);
+}
+```
