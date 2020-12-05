@@ -2,6 +2,8 @@
 
 ## How to set it up
 
+All commands stated here should be executed within the root of the directory of the project within which you wish to apply your styling rules.
+
 ## Dealing with .gitignore
 
 - Prempting this issue now will save you a headache later.
