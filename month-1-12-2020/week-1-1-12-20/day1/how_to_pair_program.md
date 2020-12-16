@@ -1,5 +1,14 @@
 # How to Pair Program
 
+### USING GIT
+
+Each partner adds two remote links to their cloned repo on their own local workstation: one to CodesmithLLC's repo, and one to the partner's repo:
+
+```
+git remote add upstream https://github.com/CodesmithLLC/unit-1-js-fundamentals.git
+git remote add partner https://github.com/PARTNERS_GITHUB_HANDLE/unit-1-js-fundamentals.git
+```
+
 ### Ground rules - Reid Klarsfeld
 Turns the chat off.
 Use the raise hand feature if you have a question.
