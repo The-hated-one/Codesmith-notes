@@ -66,7 +66,8 @@ Recursion typically is fewer lines of code. Can be a leser time complexity.
 - Recursive solutions describe *what* the solution is.
 - Writing recursive functions often forces you to write *declarative* code instead of *imperative* code.
 
-- Delarative code is typically what the solution is, it less of a step by problem.
+- Imperative code is where you explicity spell out each step of how you want something done.
+- Declarative code is where you merely say what it is that you want done.
 
 ## Types of Recursion
 
