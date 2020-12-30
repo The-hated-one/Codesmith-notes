@@ -43,7 +43,7 @@ Rotate when you are done.
 
 ## Benefits
 
-- Collaboration (spotting issues, navigating solutions, WORKING TOGHETEHR)
+- Collaboration (spotting issues, navigating solutions, WORKING TOGETHER)
 - Two heads are better than one
 - Results in fewer coding mistakes
 - Effective way to share knowledge
