@@ -196,7 +196,7 @@ for([color, meaning] of trafficLights.entries()) {
 
 ## Object vs. Array
 
-JavaScript objects and arrays are both examples of data structures. Specifically, they create composite data structures out of smaller componenets.
+JavaScript objects and arrays are both examples of data structures. Specifically, they create composite data structures out of smaller components.
 
 Array or Object? How should should we store all of the stock prices of Apple at 10 second intervals across the whole day?
   - An array.
