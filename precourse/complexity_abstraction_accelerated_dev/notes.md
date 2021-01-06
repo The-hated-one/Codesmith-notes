@@ -136,6 +136,9 @@ Look for the meta patterns, and the common things you are doing, so that you can
 https://www.qualimente.com/2017/03/02/effects-of-project-size-and-quality-on-software-project-delivery/
 -> Stephen Kuenzli - read everything he has written.
 
+The related study: 'The Economics Of Software Quality' by Caspers Jones and Olivier Bonsignour
+http://ptgmedia.pearsoncmg.com/images/9780132582209/samplepages/0132582201.pdf
+
 ## Books
 Clean Code - A Handbook of Agile Software Craftsmanship
 Refactoring - Improving the Design of Existing Code - Martin Fowler, Kent Beck
