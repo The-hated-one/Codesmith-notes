@@ -24,6 +24,13 @@ Using 123, as it is easy to read, vs using convention.
 
 Good to see you suggesting useful console.logs.
 
+## Final feedback for Kevin
+
+I recommend that you:
+- That you practice working/solving problems under time pressure, so you train yourself to be cooler when the rubber hits the road.
+- That you continue, to ensure you read the error messages in detail, because even if you don't understand them at first, if you keep reading them, overtime they will begin to make sense.
+- It is cliche, but believe in and have faith in yourself and trust the process, you're on a journey and you just need to keep grinding, making progress one little tiny step at a time. That's all there really is to it.
+
 # Learnt
 
 export default -> single export -> import NO {}
