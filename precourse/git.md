@@ -34,7 +34,7 @@
 ### How to replace one branch with another
 
 ```
-git checkout hotfixes
-git reset --hard master
-git push --force origin hotfixes
+git checkout branch-to-be-replaced
+git reset --hard branch-to-copy
+git push --force origin branch-to-be-replaced
 ```
