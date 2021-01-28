@@ -20,4 +20,5 @@
 git remote add upstream https://github.com/CodesmithLLC/unit-1-js-fundamentals.git
 git remote add partner https://github.com/PARTNERS_GITHUB_HANDLE/unit-1-js-fundamentals.git
 git pull partner master
+git remote rm partner
 ```
