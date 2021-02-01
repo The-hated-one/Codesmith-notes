@@ -21,3 +21,10 @@ It's been a joy.
 
 Fairly simple challenge.
 
+
+
+Sad community is ending
+
+Assumptions about someone surprised.
+
+Wants to build things
