@@ -105,9 +105,9 @@ mockDB.connect(DB_URL, dbConnectDB);
   - A promise is something JavaScript provides to some asynchronous request. It promises to either resolve your request with some success case, or to reject your request by throwing an error.
   - Think about promises in real life. If you ask me to do something for you, I can promise I can do one of two things: fulfill my task (the thing I promised), or not fulfill the task.
 
-```
-A promise represents an abstraction of non-blocking asynchronous execution.
-```
+
+> A promise represents an abstraction of non-blocking asynchronous execution.
+
 
 It is an object that represents the eventual outcome of asynchronous code.
 - 3 states:
