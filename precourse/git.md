@@ -33,8 +33,15 @@
 
 ### How to replace one branch with another
 
-```
+``` seems to not be working any more -> confusing
 git checkout branch-to-be-replaced
 git reset --hard branch-to-copy
 git push --force origin branch-to-be-replaced
+```
+
+``` seems to be working!
+git checkout branch-to-copy
+git merge -s ours branch-to-be-replaced
+git checkout branch-to-be-replaced
+git merge branch-to-copy
 ```
