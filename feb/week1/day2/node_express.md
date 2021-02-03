@@ -125,7 +125,7 @@ MVC is an architectural pattern for software at large.
   - Represents the connection between the model and the view, handling any processing of information back and forth.
 
 
-> ---------request--------->| Controller |--request--->| Model | <br>
+> ---------request--------->| Controller |---request--->| Model | <br>
 > <--response--| View |<----| Controller |<--response--| Model |
 
 ## MVC with Express
