@@ -186,9 +186,14 @@ app.listen(PORT, () => console.log(`Listening on port ${PORT}...`));
 
 ```JavaScript
 const express = require('express')
+const app = express();
+const PORT = 3000;
 //...
 
+// Define named middleware
+
 const articleController = {};
+
 articleController.createArticle = (req, res, next) => {
   /* do stuff */
   articles.find({}, (err, docs) => {
