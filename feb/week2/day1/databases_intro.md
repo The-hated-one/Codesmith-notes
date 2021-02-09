@@ -226,10 +226,13 @@ So:
 
 ### Questions
 
-What is memcached?
+What is memcached? How we are keeping track of our cache in memory in redis.
 
 What is horizontal and vertical scaling?
+Horizontal - get more waterbottles
+Verticle scaling - making the waterbottle bigger.
 
 How reliable are SQL databases, do they ever go wrong?
+- This is a system design thing.
 
 How do we know which order in which to execute the requests?
