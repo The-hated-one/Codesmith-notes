@@ -8,7 +8,7 @@ SQL is very important to know!
 
 - Relational Database schemas and ER diagrams
 - Basic CRUD operations
-- Aggregrate functions
+- Aggregate functions
 - Sub-queries
 - Joins
 
