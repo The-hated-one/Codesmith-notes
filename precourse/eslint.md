@@ -58,3 +58,11 @@ npm install babel-eslint --save-dev
 or
 yarn add -D babel-eslint
 ```
+
+### Quick Fix for Parsing error: Unexpected token = eslint arrow function
+
+In `.eslintrc.json` add the following:
+
+```json
+  "parser": "@babel/eslint-parser",
+```
