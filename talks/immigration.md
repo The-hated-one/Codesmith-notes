@@ -37,6 +37,12 @@ They won't launch a greencard process, until you already over there working.
 
 - L1 for intra-company transfer. Not an option for most people
 
+### CPT Mills
+
+Immigration service - not recommended.
+
+Basically a masters degree you pay for based on work experience.
+
 ## E1 Visa
 
 E1 is based on continuous trade with the US. Having a manufacturing business within the US. No minimum threshold. On the other hand there has to be substantial and un going trade with the use for goods/services. At least a year of goods/services flowing into the US. Then demonstrate that the visa would expand it.
@@ -220,3 +226,9 @@ What is the visa waiver program?
 Wages for remote workers in the US?
 
 Which visa does a remote worker? -> DO NOT NEED A VISA.
+
+## Contact details
+
+michael@ryvinlaw.com
+
+Feel free to reach out.
