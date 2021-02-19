@@ -120,22 +120,64 @@ for (let saltRounds = 10; saltRounds < 21; saltRounds++) {
     - Verification of the JWT requires us to take the payload + the secret, hash it and compare it to the signature.
     - Since clients don't know the secret, they can't ever make a valid signature, and thus can't fake the JWT.
 
+```JavaScript
+{
+  "name": "John Doe:,
+  "admin": true
+}
+```
+
+### JWT Signature
+
+- Payload is easy to fake
+- So we add a signature to the payload.
+  - This is a one-way hash of the payload + a secret stored on the server.
+  - The server is responsible for creating the JWT.
+
 ### JWT is Compact
 
-- base64 encoded - smaller.
+- base64 encoded - smaller - transmission is fast.
 - Can be sent through
   - URL string
   - POST
   - HTTP HEADER
 
-Looks like:
+### JWT Structure
+
+- Consists of three parts separated by dots.
+
 ```
-xxxxx.yyyy.zzzz
+xxxxx.yyyyy.zzzzz
 ```
 - Header - hashing algo name
 - Payload - data in base 64
 - Signature - encoded of version of header + payload + secret
 
-### Questions
+```JavaScript
+// Header: algorithm and token type
+{
+  'alg': 'HS256',
+  'typ': 'JWT'
+}
+// Payload: data
+{
+  'sub': '12341543',
+  'name': 'Tom',
+  'admin': true
+}
+// Verify Signature
+HMACSHA256(base64UrlEncode(header) + '.' + base64UrlEncode(payload), secret);
+// Encoded:
+// k3j4hg523lk45h23l5k4h.2kj4gh2k45g324k5g2k4.kj245hg3jk45hgqjk34g
+```
 
+### JWT Advantages
 
+- Client has info about the user, expiry etc. in a signed JWT token.
+- Server doesn't have to query a sessions table each time we make a request for an auth-protected resource, nor look into other tables to find pertinent user information.
+
+## Conclusion
+
+- One-way encryption keeps passwords safe.
+- bCrypt library is used to store passwords more safely.
+- Use JSON web tokens (JWTs) for quickly obtaining information about logged-in users without going to the database.
