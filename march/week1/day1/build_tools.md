@@ -121,7 +121,7 @@ Any import or export statement in our code (ES6 module style) is an instruction 
 
 We still need webpack however.
 
-- With modules <script> tags, we still have to make an http GET request for each JavaScript file.
+- With modules `<script>` tags, we still have to make an http GET request for each JavaScript file.
 - With potentially 1000s of requests this is infeasible.
 - Also we want ot be able tto transpile, bundle other file assets, uglify etc.
 - We also can't user snpm node_modules this way because they have a different syntax.
