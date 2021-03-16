@@ -187,6 +187,15 @@ const person = {
 };
 ```
 
+## Interfaces
+
+```TypeScript
+interface Person {
+  name: string;
+  age: number;
+}
+```
+
 ## Functions
 
 - You can explicitly declare output type.
