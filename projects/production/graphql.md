@@ -4,6 +4,8 @@ https://www.apollographql.com/blog/the-concepts-of-graphql-bc68bd819be3/#.94scr3
 
 https://www.youtube.com/watch?v=zWhVAN4Tg6M&t=1s
 
+The true heart of GraphQL lies in what I think of as the application data graph.
+
 Why is it called GraphQL?
 
 Because of the App Data Graph
