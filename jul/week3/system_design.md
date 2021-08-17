@@ -249,4 +249,12 @@ Flesh out your high level design with your chosen solution
 - Palantir: How to ace their SDI
 
 
-### Questions 
+### To Anki
+
+ACID meaning
+
+Read through, write through caching
+
+horizontal vertical scaling and sharding
+
+Different Cache policies, time, least recently used
