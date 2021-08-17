@@ -246,6 +246,70 @@ This can mean 3 radically different things:
 
 The only way to improve is through the self-reflective iterative process.
 
+## Preparing your narrative about you as a software engineer - The goal is to make ita conversation about engineering as soon as possible
+
+Main story
+
+1. Introductory overview with focus on most recent work (production product)
+   a. Including your current focus (production project) and how the role/company fits in
+
+After (1) you should be already turning it into a **conversation about engineering**
+
+**Other parts to prepare** (not mandatory but good to haves)
+
+2. Anchor point
+3. Prior experience
+4. Why Codesmith
+
+## Part 1: Your opening - The introductory overview
+
+Includes:
+- (a) General statement of field of work and expertise (keep it relevant to stack fo the company)
+- (b) Credentials (humble confidence)
+  - University, prominent companies you worked with, etc.
+- (c) Why interested in company & their engineering culture
+- (d) Informed-opinion question to transition into a conversation
+
+Basic generic example:
+"[Add nice comment about company and/or interviewer] I'm an engineer working day-to-day on [CORE TECH]. I'm currently working on [Production project] but actually it's interesting you use [tech X] because my specialism is [ADVANCED AREA - typically production project focus area]. [insert informed/opinionated comment or question about company]:"
+
+## Part 2: Your Anchor point - Bring this up in the first few minutes
+
+Your goal is to give yourself a technical lineage (and avoid teh bias against career changers):
+- Web dev/CS/math/analytical courses at college
+- Early Programming/(HTML/CSS experience, building computers etc.)
+- Technical work or coding in an earlier role
+
+## Part 3: Your prior experience - By default your production project work but can include prior roles
+
+Reference technical experience (use your resume as guidance) in your prior role
+
+Example: "I've worked with CCB where I worked across the stack - particularly AWS Lambda, S3 and Cloudfront. In response to users behaviour, database inventory levels, cart abandons etc. I also developed workflows that automated platform responses".
+
+![](2021-08-17-03-30-23.png)
+
+## Part 4: Your time at Codesmith
+
+Identify your personal reason but ensure it doesn't undersell you
+- Community/network of other experienced engineers
+- Opportunity to give back - mentorship of other developers
+- Want to contribute to the open source community through OSLabs (reference your production project and other successful production projects)
+- The chance to build alongside engineers from every field (reference classmates expertise)
+- Want to develop expertise around system design, computer science (other advanced aspects of the program)
+
+## Live Workshop - Developing your narrative - Practice in a supportive space with feedback
+
+1. Choose a company, role (and interviewer)
+2. Identify specifics of company/role/interviewer
+3. Prepare the four parts to your story
+4. Tailor your general story to this specific company/role and interviewer
+    - prepare your comments/questions for them to make it a conversation from the start
+5. Be prepared for a live mock interview and feedback
+
+## Final notes
+
+Reach out to Annie or Phillip Troutman for more personal advice.
+
 ### To Do
 
 - Add tech pro's and cons to Anki
