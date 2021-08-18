@@ -187,7 +187,9 @@ The example above is not about your engineering ability - it was about how polis
 - Short answers - although remember to check with the interviewer if they want you to keep diving in
 - 'I've never worked with that' => volunteer a story related
 
-## Other tip
+## Other tips
+
+### Things you don't know the answer to
 
 If you get a question about something you don't know:
   - E.g. do you have experience in Angular
@@ -195,3 +197,26 @@ If you get a question about something you don't know:
 - DO NOT SAY => I don't know/I have none
 - Say
   - Recently I was doing a project and we had to decide between Angular, React and Vue. In the end we decided to go with React for 3 main reasons...
+
+### Handling why are you moving job now?
+
+- Show the passion and the excitement about the company => the mission of what they do. Reiterate part of their mission statement.
+
+### Do you have any questions for me?
+
+- Ask question about testing infrastructure - it shows engineering maturity
+
+- Categories 
+  - The team
+  - The organizational structure
+    - Tickets
+    - Organization
+    - Expectations
+  - Engineering culture
+    - Do you value collaboration, transparency etc.?
+  - Product
+    - What is the product road map like?
+  - Expectations
+    - What do you want from me
+    - How can I help you?
+    - Over 30, 60, 90 days
