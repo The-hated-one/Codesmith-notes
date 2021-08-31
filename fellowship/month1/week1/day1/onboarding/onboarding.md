@@ -172,3 +172,7 @@ How to handle:
 ## Last day
 
 November Sat 27th is the last day
+
+## Outside of work hours meetings
+
+THESE ARE OPTIONAL
