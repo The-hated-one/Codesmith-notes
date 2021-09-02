@@ -159,7 +159,7 @@
   - Scores 8 and up are considered passing
   - If you are suggesting that an applicant be rejected off a category, make sure your scoring reflects that!
 
-## Writing Your NOtes from Interviews
+## Writing Your Notes from Interviews
 
 Make sure to write notes in the following format - include:
 - On-site or online
