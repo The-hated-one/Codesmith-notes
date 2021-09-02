@@ -41,3 +41,40 @@
 - Delay - "great questions, we'll come back to that later"
 - Bounce - send the question with audience if you know someone really knows it
 - Play - tell them to code up the idea and share the result with everyone
+
+## Tips
+
+- Be confident
+  - Turn the volume up
+  - Open your arms
+  - Body language (wide open)
+  - Pacing - slow
+  - Tone - friendly
+  - Volume - loud (speak from the belly)
+  - Energy - high
+
+- Put your favorite music on to start
+
+- Begin each lecture with why - WHAT IS THE FUNDAMENTAL GOAL OF X
+  - What is the context of this material
+  - What is the road map for this lecture
+  - What is the main takeaway (or two)?
+
+- Ask lots of questions
+
+- Repeat your self frequently
+
+## Technical setup
+
+- Screen sharing monitor
+- Movement between slides
+- Laser pointer
+- Power
+- Vide/audio
+- Recording
+
+## After lecture
+
+- release slides
+
+
