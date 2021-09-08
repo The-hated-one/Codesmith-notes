@@ -73,7 +73,7 @@ People will often not take the problem seriously.
 ## Hack Hour & Approach Lectures
 
 - You are scheduled to watch the 'How to give lectures at Codesmith' videos later this week (Responsibilities Doc)
-- Select yoru Hack Hours & Approach Lectures Asana
+- Select your Hack Hours & Approach Lectures Asana
 - There are solutions to HH linked in your "Fellow Responsibilities" Doc
 - Release HH (and Units) through the Release GUI
 - Iterate and self-improve (through feedback) on your presentation style and explanatory ability - this will be a major contributor to your job search success
