@@ -14,6 +14,17 @@ Ask students:
 -How are you feeling about the job search?
 -Are you interested in Fellowship (Please add this note to the culture note post-OH)
 
+## New Questions
+
+Ask students:
+- What’s been going well as you dive into Senior portion (personal progress/Codesmith in general)?
+- What hasn’t been going well? How are you handling that? (personal progress/Codesmith in general)
+- Any surprises so far?
+- How are the dynamics of your OSP team as you look towards launch? Do you have any concerns?
+-How are you feeling about the Hiring Program?
+-Have you thought about the Fellowship (Please add this note to the culture note post-OH)
+- How can the team continue to support you?
+
 ## Students
 
 Sergey Zeygerman
