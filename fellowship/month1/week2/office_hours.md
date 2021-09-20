@@ -21,8 +21,8 @@ Ask students:
 - What hasn’t been going well? How are you handling that? (personal progress/Codesmith in general)
 - Any surprises so far?
 - How are the dynamics of your OSP team as you look towards launch? Do you have any concerns?
--How are you feeling about the Hiring Program?
--Have you thought about the Fellowship (Please add this note to the culture note post-OH)
+- How are you feeling about the Hiring Program?
+- Have you thought about the Fellowship (Please add this note to the culture note post-OH)
 - How can the team continue to support you?
 
 ## Students
