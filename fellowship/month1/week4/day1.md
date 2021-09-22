@@ -27,4 +27,3 @@ Travis Lockett
 - Social Zoom application => 1st person view should be default
 
 
-
