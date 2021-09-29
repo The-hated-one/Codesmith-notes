@@ -40,3 +40,10 @@
 - Check in with them in terms of the code review.
   - Setup that every PR needs to be reviewed before it is accepted.
   - Importance of team work over features
+
+## Juniors Pair programming issues
+
+- Norman
+- Felicity
+- Jane
+- Julia
