@@ -15,6 +15,6 @@
 - They are thinking of doing an electron app/chrome dev tool, not sure atm
 - Still fleshing out their idea but making good progress
 - Jireh seems technically strongest and has the clearest understanding of the problem and potential solutions, and seems to be taking the lead there
-- The team as a whole seems pretty happy with their idea and direction and seems pretty - unified
+- The team as a whole seems pretty happy with their idea and direction and seems pretty unified
 - Sara was particularly reserved/quiet
-- Jay is quiet until I ask him a question then he has a fair bit to say and seems in - pretty solid spirits
+- Jay is quiet until I ask him a question then he has a fair bit to say and seems in pretty solid spirits
